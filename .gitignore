@@ -1,6 +1,9 @@
 # Dependencies
 node_modules
 
+# NPM token (sensitive)
+.npmrc
+
 # Build output
 dist
 

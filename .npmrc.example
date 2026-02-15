@@ -1,0 +1,10 @@
+# NPM Publish Token 配置
+# 复制此文件为 .npmrc 并填入你的 token
+#
+# 创建 token: https://www.npmjs.com/settings/YOUR_USERNAME/tokens
+# 选择 Granular Access Token，授权 @everpack scope 的 read/write 权限
+#
+# ⚠️ 当前 token 有效期: 90 天 (创建于 2026-02-15，预计过期: 2026-05-16)
+# ⚠️ 请勿将 .npmrc 提交到 git 仓库
+
+//registry.npmjs.org/:_authToken=YOUR_NPM_TOKEN
