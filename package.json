@@ -1,6 +1,6 @@
 {
   "name": "@everpack/cli",
-  "version": "0.1.2",
+  "version": "0.1.1",
   "description": "XKit - 开发者工具 CLI",
   "type": "module",
   "bin": {
