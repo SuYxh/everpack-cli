@@ -1,6 +1,6 @@
 {
   "name": "@everpack/cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "XKit - 开发者工具 CLI",
   "type": "module",
   "bin": {
@@ -37,6 +37,10 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
